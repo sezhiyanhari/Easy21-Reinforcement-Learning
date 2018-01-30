@@ -1,4 +1,4 @@
-# easy21_david_silver
+# Easy 21 Game Implementation using Reinforcement Learning
 
 This assignment was completed for David Silver's Reinforcement Learning course.
 
